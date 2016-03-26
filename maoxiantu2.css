@@ -1,0 +1,78 @@
+/*
+ * maoxiantuan.css
+ * Root namespace styles
+ */
+
+body {
+    background-image: url("http://www.yangtz.com/yangtzpay/example/img/1.jpg");
+    /*background-color: black;*/
+}
+
+.myfont{
+    font-family: 微软雅黑;
+    font-size: larger;
+    color: white;
+}
+
+.myfontred{
+    font-family: 微软雅黑;
+    font-size: small;
+    color: red;
+}
+
+.myfontblack{
+    color: black;
+}
+.centerok{
+    text-align:center
+}
+
+.backgrandcolorblack{
+    background-color: black;
+}
+
+.contentoklocc
+{
+    height:140px;
+    width:250px;
+
+}
+
+.centerokleft
+{
+    /*display:block;*/
+    height:100px;
+
+    margin:20px;/*设置元素跟其他元素的距离为20像素*/
+    float:left;/*设置浮动，实现多列效果，div+Css布局中很重要的*/
+    display: block;
+}
+
+.centerokright
+{
+    /*display:block;*/
+    height:100px;
+    width:100px;
+    margin:20px;/*设置元素跟其他元素的距离为20像素*/
+    float:right;/*设置浮动，实现多列效果，div+Css布局中很重要的*/
+    display: block;
+}
+
+.mytable
+{
+    border: 5px;
+    margin: 5px 10px 0;
+}
+
+.paoliang
+{
+    font-size: xx-large;
+    font-family: 楷体;
+    color: gold;
+}
+.nikcname
+{
+    font-size: larger;
+    font-family: 楷体;
+    color: gold;
+}
